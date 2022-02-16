@@ -106,3 +106,20 @@ text-align: right;
   width: 300px;
   border-radius: 50px;
   }
+
+.service-item {
+  box-shadow: 0 0 45px rgb(255, 168, 168);
+  transition: .5s;
+}
+
+.service-item:hover {
+  background: var(--primary);
+}
+
+.service-item * {
+  transition: .5s;
+}
+
+.service-item:hover * {
+  color: var(--light) !important;
+}
