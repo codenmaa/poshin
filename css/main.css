@@ -110,7 +110,7 @@ text-align: right;
 
 /***service***/
 .service-item {
-  box-shadow: 0 0 45px rgb(255, 168, 168);
+  box-shadow: 0 0 30px rgb(117, 117, 117);
   transition: .5s;
 
 }
